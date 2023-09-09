@@ -43,7 +43,7 @@
 
             else
             {
-                Console.WriteLine("Oh crap! I need to take action!!");
+                Console.WriteLine("I need to take action!!");
 
                 //Send an e-mail to let myself know
                 //In the e-mail body, include the error stack trace, so I know which line of code the logic failed on
